@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Exposição Virtual ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A exposição será realizada em um espaço virtual customizado no metaverso, onde cada artista terá seu próprio ambiente temático para exibir suas obras. O projeto integrará elementos de design digital, interatividade e narrativa para oferecer uma experiência única e envolvente para os visitantes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+copilot, ideogram, spatial
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Será realizada uma curadoria para seleção de obras e artistas.
+Criação de Projeto Expográfico.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ampliação da visibilidade e reconhecimento do coletivo "Suzue Criptogang".
+Envolvimento de uma audiência global, promovendo a arte digital e o metaverso.
+Monetização das obras através da venda de NFTs e merchandise.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Naty é uma expressão que remete à naturalidade, àquilo que parece genuíno e sem artifícios. Quando aplicado ao contexto da inteligência artificial (IA), é um desafio fascinante.
 ```
 
 ### Exemplos e Insigths
